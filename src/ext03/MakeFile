@@ -1,0 +1,2 @@
+compare.o: compare.c
+  cc -g -Wall -c $< -o $@
